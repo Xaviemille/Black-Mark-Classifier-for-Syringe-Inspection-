@@ -1,0 +1,104 @@
+{
+  "images": [
+    {
+      "width": 800,
+      "height": 600,
+      "id": 0,
+      "file_name": "..\\..\\label-studio\\label-studio\\media\\upload\\1\\3e2522e1-img_030.png"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "id": 1,
+      "file_name": "..\\..\\label-studio\\label-studio\\media\\upload\\1\\b7ccdbdd-img_031.png"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "id": 2,
+      "file_name": "..\\..\\label-studio\\label-studio\\media\\upload\\1\\18b3b945-img_032.png"
+    },
+    {
+      "width": 800,
+      "height": 600,
+      "id": 3,
+      "file_name": "..\\..\\label-studio\\label-studio\\media\\upload\\1\\112c2c81-img_033.png"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "black_mark"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        522.0956719817767,
+        278.8154897494305,
+        24.601366742596838,
+        16.400911161731244
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 403.4848304025003
+    },
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        519.3621867881549,
+        270.61503416856493,
+        28.701594533029606,
+        16.4009111617312
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 470.7323021362485
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        520.7289293849658,
+        256.9476082004556,
+        21.86788154897488,
+        24.601366742596785
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 537.9797738699964
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 0,
+      "segmentation": [],
+      "bbox": [
+        522.0956719817767,
+        251.48063781321187,
+        21.86788154897488,
+        21.86788154897492
+      ],
+      "ignore": 0,
+      "iscrowd": 0,
+      "area": 478.20424343999684
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "description": "",
+    "contributor": "Label Studio",
+    "url": "",
+    "date_created": "2026-06-26 01:40:56.406987"
+  }
+}
