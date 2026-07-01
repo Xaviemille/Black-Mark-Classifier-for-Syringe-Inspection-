@@ -1,0 +1,4756 @@
+{
+  "images": [
+    {
+      "id": 0,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_012.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_012.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 1,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_013.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_013.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 2,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_014.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_014.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 3,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_015.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_015.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 4,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_016.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_016.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 5,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_017.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_017.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 6,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_018.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_018.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 7,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_019.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_019.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 8,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_020.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_020.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 9,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_021.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_021.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 10,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_022.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_022.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 11,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_023.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_023.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 12,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_024.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_024.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 13,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_025.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_025.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 14,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_026.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_026.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 15,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_027.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_027.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 16,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_028.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_028.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 17,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_029.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_029.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 18,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_030.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_030.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 19,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_031.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_031.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 20,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_032.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_032.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 21,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_033.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_033.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 22,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_036.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_036.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 23,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_037.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_037.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 24,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_038.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114247\\img_038.png",
+      "run_folder": "run_20260611_114247"
+    },
+    {
+      "id": 25,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_003.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_003.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 26,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_004.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_004.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 27,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_005.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_005.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 28,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_006.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_006.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 29,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_007.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_007.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 30,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_008.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_008.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 31,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_009.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_009.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 32,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_010.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_010.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 33,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_011.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_011.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 34,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_012.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_012.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 35,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_013.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_013.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 36,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_014.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_014.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 37,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_015.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_015.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 38,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_016.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_016.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 39,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_017.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_017.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 40,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_018.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_018.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 41,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_019.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_019.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 42,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_022.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_022.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 43,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_023.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114448\\img_023.png",
+      "run_folder": "run_20260611_114448"
+    },
+    {
+      "id": 44,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_017.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_017.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 45,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_018.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_018.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 46,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_019.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_019.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 47,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_020.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_020.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 48,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_021.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_021.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 49,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_022.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_022.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 50,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_023.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_023.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 51,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_024.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_024.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 52,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_025.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_025.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 53,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_026.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_026.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 54,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_027.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_027.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 55,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_028.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_028.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 56,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_029.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_029.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 57,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_030.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_030.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 58,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_031.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_031.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 59,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_032.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_032.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 60,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_033.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_033.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 61,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_034.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_034.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 62,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_035.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_035.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 63,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_036.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_036.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 64,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_037.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_037.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 65,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_038.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114542\\img_038.png",
+      "run_folder": "run_20260611_114542"
+    },
+    {
+      "id": 66,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_000.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_000.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 67,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_001.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_001.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 68,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_002.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_002.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 69,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_003.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_003.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 70,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_004.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_004.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 71,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_005.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_005.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 72,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_006.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_006.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 73,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_007.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_007.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 74,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_008.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_008.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 75,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_009.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_009.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 76,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_010.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_010.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 77,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_039.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_039.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 78,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_040.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_040.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 79,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_041.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_041.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 80,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_042.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_042.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 81,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_043.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_043.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 82,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_044.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_044.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 83,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_045.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_045.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 84,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_046.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_046.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 85,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_047.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_114835\\img_047.png",
+      "run_folder": "run_20260611_114835"
+    },
+    {
+      "id": 86,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_000.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_000.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 87,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_001.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_001.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 88,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_002.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_002.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 89,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_003.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_003.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 90,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_004.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_004.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 91,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_005.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_005.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 92,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_006.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_006.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 93,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_007.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_007.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 94,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_008.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_008.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 95,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_009.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_009.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 96,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_010.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_010.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 97,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_011.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_011.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 98,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_012.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115514\\img_012.png",
+      "run_folder": "run_20260611_115514"
+    },
+    {
+      "id": 99,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_013.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_013.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 100,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_014.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_014.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 101,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_015.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_015.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 102,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_016.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_016.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 103,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_017.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_017.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 104,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_018.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_018.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 105,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_019.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_019.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 106,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_020.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_020.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 107,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_021.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_021.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 108,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_022.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_022.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 109,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_023.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_023.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 110,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_024.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_024.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 111,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_025.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_025.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 112,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_026.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_026.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 113,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_027.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_027.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 114,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_028.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_028.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 115,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_029.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_029.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 116,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_030.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_030.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 117,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_031.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_031.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 118,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_032.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_032.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 119,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_033.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_033.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 120,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_034.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115642\\img_034.png",
+      "run_folder": "run_20260611_115642"
+    },
+    {
+      "id": 121,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_030.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115822\\img_030.png",
+      "run_folder": "run_20260611_115822"
+    },
+    {
+      "id": 122,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_031.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115822\\img_031.png",
+      "run_folder": "run_20260611_115822"
+    },
+    {
+      "id": 123,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_032.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115822\\img_032.png",
+      "run_folder": "run_20260611_115822"
+    },
+    {
+      "id": 124,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_033.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115822\\img_033.png",
+      "run_folder": "run_20260611_115822"
+    },
+    {
+      "id": 125,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_014.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_014.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 126,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_015.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_015.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 127,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_016.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_016.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 128,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_017.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_017.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 129,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_018.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_018.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 130,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_019.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_019.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 131,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_020.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_020.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 132,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_021.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_021.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 133,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_022.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_022.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 134,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_023.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_023.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 135,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_024.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_024.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 136,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_025.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_025.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 137,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_026.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_026.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 138,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_027.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_027.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 139,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_028.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_028.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 140,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_029.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_029.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 141,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_030.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_030.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 142,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_031.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_031.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 143,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_032.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_032.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 144,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_033.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_033.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 145,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_034.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_115919\\img_034.png",
+      "run_folder": "run_20260611_115919"
+    },
+    {
+      "id": 146,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_018.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_018.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 147,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_019.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_019.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 148,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_020.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_020.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 149,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_021.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_021.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 150,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_022.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_022.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 151,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_023.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_023.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 152,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_024.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_024.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 153,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_025.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_025.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 154,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_026.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_026.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 155,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_027.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_027.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 156,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_028.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_028.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 157,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_029.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_029.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 158,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_030.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_030.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 159,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_031.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_031.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 160,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_032.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_032.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 161,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_033.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_033.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 162,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_034.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_034.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 163,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_035.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_035.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 164,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_036.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_036.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 165,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_037.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_037.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 166,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_038.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_038.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 167,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_039.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_039.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 168,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_040.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_040.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 169,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_041.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_041.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 170,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_042.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_042.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 171,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_043.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_043.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 172,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_044.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_044.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 173,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_045.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_045.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 174,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_046.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_046.png",
+      "run_folder": "run_20260611_120540"
+    },
+    {
+      "id": 175,
+      "width": 800,
+      "height": 600,
+      "file_name": "img_047.png",
+      "full_path": "C:\\Users\\HP\\Downloads\\Syringe Data Collection\\syringe_images\\B AND W MARKS (43 syringes)\\run_20260611_120540\\img_047.png",
+      "run_folder": "run_20260611_120540"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 0,
+      "category_id": 0,
+      "bbox": [
+        401.82232346241454,
+        338.9521640091116,
+        19.134396355352976,
+        10.933940774487482
+      ],
+      "area": 209.21435650499856,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 0,
+      "bbox": [
+        396.3553530751708,
+        330.751708428246,
+        28.701594533029667,
+        17.76765375854211
+      ],
+      "area": 509.95999398093625,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 2,
+      "image_id": 2,
+      "category_id": 0,
+      "bbox": [
+        396.3553530751708,
+        328.01822323462414,
+        25.96810933940776,
+        17.76765375854211
+      ],
+      "area": 461.39237550656077,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 3,
+      "image_id": 3,
+      "category_id": 0,
+      "bbox": [
+        399.0888382687926,
+        322.55125284738045,
+        19.134396355353147,
+        15.03416856492025
+      ],
+      "area": 287.66974019437487,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 4,
+      "image_id": 4,
+      "category_id": 0,
+      "bbox": [
+        399.0888382687926,
+        317.08428246013665,
+        19.134396355353147,
+        15.034168564920291
+      ],
+      "area": 287.66974019437566,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 5,
+      "image_id": 5,
+      "category_id": 0,
+      "bbox": [
+        399.0888382687926,
+        307.5170842824602,
+        17.767653758542167,
+        17.767653758542153
+      ],
+      "area": 315.68952008343734,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 6,
+      "image_id": 6,
+      "category_id": 0,
+      "bbox": [
+        397.72209567198183,
+        303.41685649202736,
+        20.50113895216401,
+        13.667425968109299
+      ],
+      "area": 280.19779889062346,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 7,
+      "image_id": 7,
+      "category_id": 0,
+      "bbox": [
+        393.62186788154895,
+        293.8496583143508,
+        25.96810933940776,
+        13.667425968109342
+      ],
+      "area": 354.91721192812435,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 8,
+      "image_id": 8,
+      "category_id": 0,
+      "bbox": [
+        393.62186788154895,
+        284.2824601366743,
+        24.601366742596838,
+        17.767653758542153
+      ],
+      "area": 437.10856626937465,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 9,
+      "image_id": 9,
+      "category_id": 0,
+      "bbox": [
+        392.255125284738,
+        266.5148063781321,
+        24.601366742596785,
+        32.8018223234624
+      ],
+      "area": 806.9696608049968,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 10,
+      "image_id": 10,
+      "category_id": 0,
+      "bbox": [
+        394.9886104783598,
+        263.78132118451026,
+        23.234624145785915,
+        20.50113895216401
+      ],
+      "area": 476.33625811406205,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 11,
+      "image_id": 11,
+      "category_id": 0,
+      "bbox": [
+        396.3553530751708,
+        252.84738041002277,
+        19.134396355353033,
+        20.50113895216401
+      ],
+      "area": 392.27691844687314,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 12,
+      "image_id": 12,
+      "category_id": 0,
+      "bbox": [
+        394.9886104783598,
+        246.01366742596812,
+        21.86788154897494,
+        19.13439635535306
+      ],
+      "area": 418.42871300999855,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 13,
+      "image_id": 13,
+      "category_id": 0,
+      "bbox": [
+        396.3553530751708,
+        239.17995444191342,
+        20.50113895216401,
+        13.667425968109342
+      ],
+      "area": 280.1977988906243,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 14,
+      "image_id": 14,
+      "category_id": 0,
+      "bbox": [
+        399.0888382687926,
+        229.61275626423694,
+        15.034168564920378,
+        17.76765375854211
+      ],
+      "area": 267.1219016090632,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 15,
+      "image_id": 15,
+      "category_id": 0,
+      "bbox": [
+        396.3553530751708,
+        225.51252847380408,
+        21.867881548974992,
+        15.03416856492025
+      ],
+      "area": 328.7654173649994,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 16,
+      "image_id": 16,
+      "category_id": 0,
+      "bbox": [
+        394.9886104783598,
+        217.31207289293852,
+        25.9681093394077,
+        19.13439635535306
+      ],
+      "area": 496.8840966993725,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 17,
+      "image_id": 17,
+      "category_id": 0,
+      "bbox": [
+        399.0888382687926,
+        213.21184510250566,
+        17.767653758542167,
+        15.034168564920291
+      ],
+      "area": 267.1219016090625,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 18,
+      "image_id": 18,
+      "category_id": 0,
+      "bbox": [
+        399.0888382687926,
+        211.84510250569474,
+        19.134396355353147,
+        10.933940774487482
+      ],
+      "area": 209.21435650500044,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 19,
+      "image_id": 19,
+      "category_id": 0,
+      "bbox": [
+        394.9886104783598,
+        210.4783599088838,
+        27.334851936218683,
+        13.667425968109384
+      ],
+      "area": 373.59706518750033,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 20,
+      "image_id": 20,
+      "category_id": 0,
+      "bbox": [
+        394.9886104783598,
+        206.37813211845102,
+        28.701594533029606,
+        12.300683371298392
+      ],
+      "area": 353.04922660218614,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 21,
+      "image_id": 21,
+      "category_id": 0,
+      "bbox": [
+        397.72209567198183,
+        207.74487471526194,
+        24.601366742596785,
+        12.300683371298433
+      ],
+      "area": 302.61362280187456,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 22,
+      "image_id": 22,
+      "category_id": 0,
+      "bbox": [
+        401.82232346241454,
+        215.94533029612757,
+        20.501138952163956,
+        15.034168564920291
+      ],
+      "area": 308.2175787796863,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 23,
+      "image_id": 23,
+      "category_id": 0,
+      "bbox": [
+        403.18906605922547,
+        218.67881548974944,
+        21.867881548974992,
+        17.767653758542153
+      ],
+      "area": 388.54094779500014,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 24,
+      "image_id": 24,
+      "category_id": 0,
+      "bbox": [
+        407.2892938496583,
+        224.1457858769932,
+        16.400911161731187,
+        15.03416856492025
+      ],
+      "area": 246.5740630237487,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 25,
+      "image_id": 25,
+      "category_id": 0,
+      "bbox": [
+        378.58769931662863,
+        326.6514806378132,
+        17.767653758542167,
+        15.03416856492025
+      ],
+      "area": 267.1219016090618,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 26,
+      "image_id": 26,
+      "category_id": 0,
+      "bbox": [
+        379.9544419134396,
+        329.384965831435,
+        15.034168564920265,
+        9.56719817767653
+      ],
+      "area": 143.83487009718695,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 27,
+      "image_id": 27,
+      "category_id": 0,
+      "bbox": [
+        378.58769931662863,
+        323.9179954441914,
+        15.034168564920321,
+        15.03416856492025
+      ],
+      "area": 226.02622443843728,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 28,
+      "image_id": 28,
+      "category_id": 0,
+      "bbox": [
+        373.12072892938494,
+        319.81776765375855,
+        23.234624145785855,
+        16.4009111617312
+      ],
+      "area": 381.0690064912485,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 29,
+      "image_id": 29,
+      "category_id": 0,
+      "bbox": [
+        371.75398633257396,
+        317.08428246013665,
+        23.234624145785855,
+        10.933940774487482
+      ],
+      "area": 254.04600432749933,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 30,
+      "image_id": 30,
+      "category_id": 0,
+      "bbox": [
+        373.12072892938494,
+        308.8838268792711,
+        20.50113895216401,
+        15.03416856492025
+      ],
+      "area": 308.2175787796862,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 31,
+      "image_id": 31,
+      "category_id": 0,
+      "bbox": [
+        374.48747152619586,
+        303.41685649202736,
+        13.667425968109342,
+        16.40091116173116
+      ],
+      "area": 224.1582391124988,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 32,
+      "image_id": 32,
+      "category_id": 0,
+      "bbox": [
+        374.48747152619586,
+        296.5831435079727,
+        15.034168564920321,
+        16.400911161731244
+      ],
+      "area": 246.5740630237507,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 33,
+      "image_id": 33,
+      "category_id": 0,
+      "bbox": [
+        371.75398633257396,
+        288.3826879271071,
+        16.400911161731187,
+        15.034168564920291
+      ],
+      "area": 246.57406302374935,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 34,
+      "image_id": 34,
+      "category_id": 0,
+      "bbox": [
+        374.48747152619586,
+        281.5489749430524,
+        12.300683371298419,
+        13.667425968109384
+      ],
+      "area": 168.1186793343753,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 35,
+      "image_id": 35,
+      "category_id": 0,
+      "bbox": [
+        375.8542141230067,
+        273.3485193621868,
+        10.933940774487496,
+        15.034168564920291
+      ],
+      "area": 164.38270868250012,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 36,
+      "image_id": 36,
+      "category_id": 0,
+      "bbox": [
+        369.02050113895217,
+        262.41457858769934,
+        23.234624145785855,
+        17.767653758542153
+      ],
+      "area": 412.8247570321863,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 37,
+      "image_id": 37,
+      "category_id": 0,
+      "bbox": [
+        373.12072892938494,
+        255.58086560364464,
+        15.034168564920265,
+        15.034168564920291
+      ],
+      "area": 226.02622443843705,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 38,
+      "image_id": 38,
+      "category_id": 0,
+      "bbox": [
+        371.75398633257396,
+        247.38041002277905,
+        19.134396355353033,
+        16.400911161731244
+      ],
+      "area": 313.8215347574992,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 39,
+      "image_id": 39,
+      "category_id": 0,
+      "bbox": [
+        373.12072892938494,
+        237.8132118451025,
+        15.034168564920265,
+        17.767653758542153
+      ],
+      "area": 267.1219016090618,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 40,
+      "image_id": 40,
+      "category_id": 0,
+      "bbox": [
+        371.75398633257396,
+        235.07972665148063,
+        17.767653758542167,
+        12.300683371298392
+      ],
+      "area": 218.554283134687,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 41,
+      "image_id": 41,
+      "category_id": 0,
+      "bbox": [
+        375.8542141230067,
+        229.61275626423694,
+        12.300683371298419,
+        16.4009111617312
+      ],
+      "area": 201.74241520124963,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 42,
+      "image_id": 42,
+      "category_id": 0,
+      "bbox": [
+        373.12072892938494,
+        213.21184510250566,
+        19.13439635535309,
+        15.034168564920291
+      ],
+      "area": 287.6697401943748,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 43,
+      "image_id": 43,
+      "category_id": 0,
+      "bbox": [
+        374.48747152619586,
+        215.94533029612757,
+        19.13439635535309,
+        8.200455580865622
+      ],
+      "area": 156.91076737875005,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 44,
+      "image_id": 44,
+      "category_id": 0,
+      "bbox": [
+        595.8997722095671,
+        319.81776765375855,
+        13.667425968109342,
+        13.667425968109342
+      ],
+      "area": 186.79853259374957,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 45,
+      "image_id": 45,
+      "category_id": 0,
+      "bbox": [
+        595.8997722095671,
+        315.7175398633258,
+        15.034168564920378,
+        15.03416856492025
+      ],
+      "area": 226.02622443843813,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 46,
+      "image_id": 46,
+      "category_id": 0,
+      "bbox": [
+        598.6332574031891,
+        314.3507972665148,
+        16.400911161731187,
+        13.667425968109342
+      ],
+      "area": 224.1582391124992,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 47,
+      "image_id": 47,
+      "category_id": 0,
+      "bbox": [
+        595.8997722095671,
+        311.61731207289296,
+        17.76765375854211,
+        13.667425968109342
+      ],
+      "area": 242.83809237187398,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 48,
+      "image_id": 48,
+      "category_id": 0,
+      "bbox": [
+        595.8997722095671,
+        300.6833712984055,
+        17.76765375854211,
+        17.76765375854211
+      ],
+      "area": 315.6895200834356,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 49,
+      "image_id": 49,
+      "category_id": 0,
+      "bbox": [
+        600.0,
+        291.11617312072894,
+        13.667425968109228,
+        19.13439635535306
+      ],
+      "area": 261.517945631247,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 50,
+      "image_id": 50,
+      "category_id": 0,
+      "bbox": [
+        595.8997722095671,
+        285.6492027334852,
+        23.234624145785915,
+        17.767653758542153
+      ],
+      "area": 412.8247570321874,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 51,
+      "image_id": 51,
+      "category_id": 0,
+      "bbox": [
+        597.266514806378,
+        280.18223234624145,
+        19.134396355353147,
+        10.933940774487482
+      ],
+      "area": 209.21435650500044,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 52,
+      "image_id": 52,
+      "category_id": 0,
+      "bbox": [
+        597.266514806378,
+        266.5148063781321,
+        19.134396355353147,
+        19.134396355353104
+      ],
+      "area": 366.125123883751,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 53,
+      "image_id": 53,
+      "category_id": 0,
+      "bbox": [
+        598.6332574031891,
+        258.3143507972665,
+        19.134396355353033,
+        15.03416856492025
+      ],
+      "area": 287.66974019437316,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 54,
+      "image_id": 54,
+      "category_id": 0,
+      "bbox": [
+        593.1662870159453,
+        244.64692482915714,
+        27.334851936218683,
+        21.867881548974964
+      ],
+      "area": 597.7553042999991,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 55,
+      "image_id": 55,
+      "category_id": 0,
+      "bbox": [
+        597.266514806378,
+        237.8132118451025,
+        21.867881548974992,
+        20.501138952164055
+      ],
+      "area": 448.3164782250008,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 56,
+      "image_id": 56,
+      "category_id": 0,
+      "bbox": [
+        598.6332574031891,
+        230.97949886104786,
+        17.76765375854211,
+        13.667425968109299
+      ],
+      "area": 242.83809237187322,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 57,
+      "image_id": 57,
+      "category_id": 0,
+      "bbox": [
+        597.266514806378,
+        220.0455580865604,
+        19.134396355353147,
+        19.13439635535306
+      ],
+      "area": 366.1251238837502,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 58,
+      "image_id": 58,
+      "category_id": 0,
+      "bbox": [
+        594.5330296127563,
+        210.4783599088838,
+        23.2346241457858,
+        20.501138952164055
+      ],
+      "area": 476.3362581140608,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 59,
+      "image_id": 59,
+      "category_id": 0,
+      "bbox": [
+        594.5330296127563,
+        203.64464692482917,
+        20.501138952163956,
+        17.767653758542153
+      ],
+      "area": 364.25713855781083,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 60,
+      "image_id": 60,
+      "category_id": 0,
+      "bbox": [
+        595.8997722095671,
+        192.71070615034168,
+        17.76765375854211,
+        23.234624145785872
+      ],
+      "area": 412.82475703218563,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 61,
+      "image_id": 61,
+      "category_id": 0,
+      "bbox": [
+        593.1662870159453,
+        192.71070615034168,
+        21.867881548974992,
+        15.03416856492025
+      ],
+      "area": 328.7654173649994,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 62,
+      "image_id": 62,
+      "category_id": 0,
+      "bbox": [
+        594.5330296127563,
+        188.6104783599089,
+        16.400911161731187,
+        12.30068337129837
+      ],
+      "area": 201.74241520124863,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 63,
+      "image_id": 63,
+      "category_id": 0,
+      "bbox": [
+        591.7995444191343,
+        185.87699316628704,
+        24.601366742596838,
+        12.300683371298392
+      ],
+      "area": 302.6136228018742,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 64,
+      "image_id": 64,
+      "category_id": 0,
+      "bbox": [
+        593.1662870159453,
+        184.51025056947609,
+        13.667425968109342,
+        10.93394077448746
+      ],
+      "area": 149.4388260749995,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 65,
+      "image_id": 65,
+      "category_id": 0,
+      "bbox": [
+        593.1662870159453,
+        184.51025056947609,
+        16.400911161731187,
+        8.2004555808656
+      ],
+      "area": 134.49494346749944,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 66,
+      "image_id": 66,
+      "category_id": 0,
+      "bbox": [
+        631.4350797266515,
+        222.77904328018224,
+        24.601366742596838,
+        23.234624145785872
+      ],
+      "area": 571.603509736874,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 67,
+      "image_id": 66,
+      "category_id": 0,
+      "bbox": [
+        665.6036446469247,
+        239.17995444191342,
+        10.933940774487496,
+        20.50113895216401
+      ],
+      "area": 224.15823911249993,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 68,
+      "image_id": 66,
+      "category_id": 0,
+      "bbox": [
+        668.3371298405467,
+        273.3485193621868,
+        17.76765375854211,
+        21.867881548974964
+      ],
+      "area": 388.54094779499866,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 69,
+      "image_id": 66,
+      "category_id": 0,
+      "bbox": [
+        435.9908883826879,
+        230.97949886104786,
+        9.567198177676516,
+        17.76765375854211
+      ],
+      "area": 169.9866646603114,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 70,
+      "image_id": 67,
+      "category_id": 0,
+      "bbox": [
+        634.1685649202733,
+        213.21184510250566,
+        19.134396355353033,
+        25.968109339407775
+      ],
+      "area": 496.8840966993732,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 71,
+      "image_id": 67,
+      "category_id": 0,
+      "bbox": [
+        664.2369020501138,
+        232.34624145785878,
+        16.4009111617313,
+        20.50113895216401
+      ],
+      "area": 336.237358668751,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 72,
+      "image_id": 67,
+      "category_id": 0,
+      "bbox": [
+        671.0706150341684,
+        262.41457858769934,
+        16.4009111617313,
+        30.068337129840543
+      ],
+      "area": 493.1481260475015,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 73,
+      "image_id": 67,
+      "category_id": 0,
+      "bbox": [
+        435.9908883826879,
+        220.0455580865604,
+        10.933940774487496,
+        24.601366742596785
+      ],
+      "area": 268.9898869349996,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 74,
+      "image_id": 68,
+      "category_id": 0,
+      "bbox": [
+        627.3348519362187,
+        205.0113895216401,
+        32.801822323462375,
+        24.601366742596824
+      ],
+      "area": 806.9696608049974,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 75,
+      "image_id": 68,
+      "category_id": 0,
+      "bbox": [
+        664.2369020501138,
+        217.31207289293852,
+        15.034168564920265,
+        31.435079726651452
+      ],
+      "area": 472.6002874621856,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 76,
+      "image_id": 68,
+      "category_id": 0,
+      "bbox": [
+        669.7038724373576,
+        258.3143507972665,
+        17.76765375854211,
+        21.86788154897492
+      ],
+      "area": 388.5409477949979,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 77,
+      "image_id": 68,
+      "category_id": 0,
+      "bbox": [
+        435.9908883826879,
+        211.84510250569474,
+        9.567198177676516,
+        24.601366742596824
+      ],
+      "area": 235.366151068124,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 78,
+      "image_id": 69,
+      "category_id": 0,
+      "bbox": [
+        630.0683371298405,
+        194.07744874715263,
+        23.2346241457858,
+        27.334851936218683
+      ],
+      "area": 635.1150108187464,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 79,
+      "image_id": 69,
+      "category_id": 0,
+      "bbox": [
+        661.503416856492,
+        213.21184510250566,
+        16.400911161731187,
+        23.234624145785915
+      ],
+      "area": 381.0690064912492,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 80,
+      "image_id": 69,
+      "category_id": 0,
+      "bbox": [
+        671.0706150341684,
+        248.74715261958997,
+        15.034168564920378,
+        16.4009111617312
+      ],
+      "area": 246.574063023751,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 81,
+      "image_id": 69,
+      "category_id": 0,
+      "bbox": [
+        435.9908883826879,
+        205.0113895216401,
+        9.567198177676516,
+        21.867881548974964
+      ],
+      "area": 209.2143565049992,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 82,
+      "image_id": 70,
+      "category_id": 0,
+      "bbox": [
+        628.7015945330296,
+        187.243735763098,
+        21.86788154897488,
+        23.23462414578583
+      ],
+      "area": 508.09200865499616,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 83,
+      "image_id": 70,
+      "category_id": 0,
+      "bbox": [
+        664.2369020501138,
+        199.54441913439638,
+        15.034168564920265,
+        30.068337129840543
+      ],
+      "area": 452.0524488768735,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 84,
+      "image_id": 70,
+      "category_id": 0,
+      "bbox": [
+        669.7038724373576,
+        237.8132118451025,
+        20.501138952163956,
+        23.234624145785915
+      ],
+      "area": 476.3362581140608,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 85,
+      "image_id": 70,
+      "category_id": 0,
+      "bbox": [
+        435.9908883826879,
+        198.17767653758543,
+        9.567198177676516,
+        20.50113895216401
+      ],
+      "area": 196.13845922343657,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 86,
+      "image_id": 71,
+      "category_id": 0,
+      "bbox": [
+        434.624145785877,
+        191.34396355353078,
+        12.300683371298419,
+        19.13439635535304
+      ],
+      "area": 235.36615106812422,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 87,
+      "image_id": 71,
+      "category_id": 0,
+      "bbox": [
+        631.4350797266515,
+        185.87699316628704,
+        21.86788154897488,
+        21.86788154897492
+      ],
+      "area": 478.20424343999684,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 88,
+      "image_id": 71,
+      "category_id": 0,
+      "bbox": [
+        660.1366742596811,
+        194.07744874715263,
+        19.134396355353033,
+        21.86788154897492
+      ],
+      "area": 418.4287130099976,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 89,
+      "image_id": 71,
+      "category_id": 0,
+      "bbox": [
+        669.7038724373576,
+        222.77904328018224,
+        19.134396355353033,
+        30.068337129840543
+      ],
+      "area": 575.3394803887471,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 90,
+      "image_id": 72,
+      "category_id": 0,
+      "bbox": [
+        630.0683371298405,
+        180.41002277904326,
+        19.134396355353033,
+        15.034168564920291
+      ],
+      "area": 287.66974019437396,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 91,
+      "image_id": 72,
+      "category_id": 0,
+      "bbox": [
+        661.503416856492,
+        188.6104783599089,
+        13.667425968109342,
+        17.76765375854213
+      ],
+      "area": 242.83809237187427,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 92,
+      "image_id": 72,
+      "category_id": 0,
+      "bbox": [
+        669.7038724373576,
+        215.94533029612757,
+        19.134396355353033,
+        17.767653758542153
+      ],
+      "area": 339.9733293206236,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 93,
+      "image_id": 72,
+      "category_id": 0,
+      "bbox": [
+        435.9908883826879,
+        187.243735763098,
+        10.933940774487496,
+        15.03416856492025
+      ],
+      "area": 164.3827086824997,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 94,
+      "image_id": 73,
+      "category_id": 0,
+      "bbox": [
+        437.3576309794989,
+        180.41002277904326,
+        9.567198177676516,
+        16.400911161731244
+      ],
+      "area": 156.9107673787496,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 95,
+      "image_id": 73,
+      "category_id": 0,
+      "bbox": [
+        631.4350797266515,
+        174.94305239179954,
+        16.400911161731187,
+        19.134396355353104
+      ],
+      "area": 313.82153475749925,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 96,
+      "image_id": 73,
+      "category_id": 0,
+      "bbox": [
+        661.503416856492,
+        176.3097949886105,
+        16.400911161731187,
+        23.234624145785894
+      ],
+      "area": 381.06900649124884,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 97,
+      "image_id": 73,
+      "category_id": 0,
+      "bbox": [
+        672.4373576309795,
+        207.74487471526194,
+        15.034168564920265,
+        16.400911161731244
+      ],
+      "area": 246.57406302374977,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 98,
+      "image_id": 74,
+      "category_id": 0,
+      "bbox": [
+        631.4350797266515,
+        170.84282460136674,
+        16.400911161731187,
+        17.767653758542174
+      ],
+      "area": 291.4057108462494,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 99,
+      "image_id": 74,
+      "category_id": 0,
+      "bbox": [
+        661.503416856492,
+        176.3097949886105,
+        13.667425968109342,
+        16.400911161731223
+      ],
+      "area": 224.15823911249967,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 100,
+      "image_id": 74,
+      "category_id": 0,
+      "bbox": [
+        673.8041002277903,
+        196.81093394077453,
+        16.400911161731187,
+        19.13439635535306
+      ],
+      "area": 313.82153475749857,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 101,
+      "image_id": 74,
+      "category_id": 0,
+      "bbox": [
+        435.9908883826879,
+        176.3097949886105,
+        9.567198177676516,
+        17.767653758542174
+      ],
+      "area": 169.986664660312,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 102,
+      "image_id": 75,
+      "category_id": 0,
+      "bbox": [
+        630.0683371298405,
+        170.84282460136674,
+        17.76765375854211,
+        12.300683371298412
+      ],
+      "area": 218.55428313468667,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 103,
+      "image_id": 75,
+      "category_id": 0,
+      "bbox": [
+        660.1366742596811,
+        162.64236902050115,
+        12.300683371298419,
+        27.334851936218683
+      ],
+      "area": 336.23735866874955,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 104,
+      "image_id": 75,
+      "category_id": 0,
+      "bbox": [
+        437.3576309794989,
+        170.84282460136674,
+        8.200455580865537,
+        17.767653758542174
+      ],
+      "area": 145.7028554231237,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 105,
+      "image_id": 76,
+      "category_id": 0,
+      "bbox": [
+        627.3348519362187,
+        169.4760820045558,
+        21.86788154897488,
+        10.93394077448746
+      ],
+      "area": 239.10212171999842,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 106,
+      "image_id": 77,
+      "category_id": 0,
+      "bbox": [
+        630.0683371298405,
+        280.18223234624145,
+        20.501138952163956,
+        19.13439635535306
+      ],
+      "area": 392.2769184468727,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 107,
+      "image_id": 78,
+      "category_id": 0,
+      "bbox": [
+        632.8018223234624,
+        278.8154897494305,
+        15.034168564920265,
+        16.400911161731244
+      ],
+      "area": 246.57406302374977,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 108,
+      "image_id": 79,
+      "category_id": 0,
+      "bbox": [
+        631.4350797266515,
+        271.98177676537586,
+        20.50113895216407,
+        23.234624145785915
+      ],
+      "area": 476.33625811406347,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 109,
+      "image_id": 79,
+      "category_id": 0,
+      "bbox": [
+        438.72437357630974,
+        282.91571753986335,
+        10.93394077448744,
+        13.667425968109342
+      ],
+      "area": 149.43882607499918,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 110,
+      "image_id": 80,
+      "category_id": 0,
+      "bbox": [
+        632.8018223234624,
+        267.88154897494303,
+        16.400911161731187,
+        21.867881548974964
+      ],
+      "area": 358.653182579999,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 111,
+      "image_id": 80,
+      "category_id": 0,
+      "bbox": [
+        437.3576309794989,
+        276.0820045558086,
+        10.93394077448744,
+        17.767653758542153
+      ],
+      "area": 194.27047389749904,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 112,
+      "image_id": 81,
+      "category_id": 0,
+      "bbox": [
+        627.3348519362187,
+        258.3143507972665,
+        27.33485193621857,
+        24.601366742596785
+      ],
+      "area": 672.4747173374949,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 113,
+      "image_id": 81,
+      "category_id": 0,
+      "bbox": [
+        664.2369020501138,
+        297.9498861047836,
+        12.300683371298419,
+        21.86788154897492
+      ],
+      "area": 268.98988693499933,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 114,
+      "image_id": 81,
+      "category_id": 0,
+      "bbox": [
+        434.624145785877,
+        269.24829157175395,
+        13.667425968109342,
+        17.767653758542153
+      ],
+      "area": 242.83809237187458,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 115,
+      "image_id": 81,
+      "category_id": 0,
+      "bbox": [
+        660.1366742596811,
+        278.8154897494305,
+        17.76765375854211,
+        15.034168564920291
+      ],
+      "area": 267.12190160906164,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 116,
+      "image_id": 82,
+      "category_id": 0,
+      "bbox": [
+        631.4350797266515,
+        252.84738041002277,
+        21.86788154897488,
+        27.334851936218683
+      ],
+      "area": 597.7553042999967,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 117,
+      "image_id": 82,
+      "category_id": 0,
+      "bbox": [
+        664.2369020501138,
+        270.61503416856493,
+        9.567198177676573,
+        20.50113895216401
+      ],
+      "area": 196.13845922343774,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 118,
+      "image_id": 82,
+      "category_id": 0,
+      "bbox": [
+        665.6036446469247,
+        299.31662870159454,
+        16.400911161731187,
+        13.667425968109384
+      ],
+      "area": 224.15823911249987,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 119,
+      "image_id": 82,
+      "category_id": 0,
+      "bbox": [
+        437.3576309794989,
+        263.78132118451026,
+        12.300683371298305,
+        17.76765375854211
+      ],
+      "area": 218.55428313468477,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 120,
+      "image_id": 83,
+      "category_id": 0,
+      "bbox": [
+        635.5353075170842,
+        248.74715261958997,
+        15.034168564920265,
+        21.867881548974964
+      ],
+      "area": 328.7654173649993,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 121,
+      "image_id": 83,
+      "category_id": 0,
+      "bbox": [
+        434.624145785877,
+        255.58086560364464,
+        13.667425968109342,
+        17.767653758542153
+      ],
+      "area": 242.83809237187458,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 122,
+      "image_id": 83,
+      "category_id": 0,
+      "bbox": [
+        662.8701594533029,
+        259.68109339407744,
+        15.034168564920265,
+        25.968109339407775
+      ],
+      "area": 390.4089331209367,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 123,
+      "image_id": 83,
+      "category_id": 0,
+      "bbox": [
+        668.3371298405467,
+        293.8496583143508,
+        10.933940774487382,
+        21.867881548974964
+      ],
+      "area": 239.10212171999765,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 124,
+      "image_id": 84,
+      "category_id": 0,
+      "bbox": [
+        435.9908883826879,
+        246.01366742596812,
+        10.933940774487496,
+        21.86788154897492
+      ],
+      "area": 239.10212171999967,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 125,
+      "image_id": 84,
+      "category_id": 0,
+      "bbox": [
+        630.0683371298405,
+        239.17995444191342,
+        27.334851936218683,
+        20.50113895216401
+      ],
+      "area": 560.3955977812486,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 126,
+      "image_id": 84,
+      "category_id": 0,
+      "bbox": [
+        662.8701594533029,
+        255.58086560364464,
+        15.034168564920265,
+        20.50113895216401
+      ],
+      "area": 308.2175787796865,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 127,
+      "image_id": 84,
+      "category_id": 0,
+      "bbox": [
+        666.9703872437356,
+        291.11617312072894,
+        16.400911161731187,
+        13.667425968109342
+      ],
+      "area": 224.1582391124992,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 128,
+      "image_id": 85,
+      "category_id": 0,
+      "bbox": [
+        434.624145785877,
+        237.8132118451025,
+        13.667425968109342,
+        19.134396355353104
+      ],
+      "area": 261.51794563124975,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 129,
+      "image_id": 85,
+      "category_id": 0,
+      "bbox": [
+        628.7015945330296,
+        226.87927107061503,
+        24.601366742596724,
+        25.968109339407732
+      ],
+      "area": 638.8509814706208,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 130,
+      "image_id": 85,
+      "category_id": 0,
+      "bbox": [
+        662.8701594533029,
+        241.9134396355353,
+        17.767653758542224,
+        27.334851936218683
+      ],
+      "area": 485.6761847437511,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 131,
+      "image_id": 85,
+      "category_id": 0,
+      "bbox": [
+        666.9703872437356,
+        280.18223234624145,
+        16.400911161731187,
+        17.767653758542153
+      ],
+      "area": 291.40571084624906,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 132,
+      "image_id": 86,
+      "category_id": 0,
+      "bbox": [
+        369.02050113895217,
+        355.35307517084277,
+        19.134396355353033,
+        17.767653758542195
+      ],
+      "area": 339.97332932062443,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 133,
+      "image_id": 87,
+      "category_id": 0,
+      "bbox": [
+        364.92027334851934,
+        349.8861047835991,
+        23.234624145785855,
+        20.501138952164055
+      ],
+      "area": 476.3362581140619,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 134,
+      "image_id": 88,
+      "category_id": 0,
+      "bbox": [
+        366.28701594533027,
+        343.0523917995444,
+        17.767653758542167,
+        19.13439635535306
+      ],
+      "area": 339.9733293206244,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 135,
+      "image_id": 89,
+      "category_id": 0,
+      "bbox": [
+        367.65375854214125,
+        337.5854214123007,
+        15.034168564920265,
+        19.13439635535306
+      ],
+      "area": 287.6697401943739,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 136,
+      "image_id": 90,
+      "category_id": 0,
+      "bbox": [
+        366.28701594533027,
+        330.751708428246,
+        19.13439635535309,
+        17.76765375854211
+      ],
+      "area": 339.9733293206238,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 137,
+      "image_id": 91,
+      "category_id": 0,
+      "bbox": [
+        366.28701594533027,
+        322.55125284738045,
+        16.400911161731187,
+        17.76765375854211
+      ],
+      "area": 291.4057108462484,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 138,
+      "image_id": 92,
+      "category_id": 0,
+      "bbox": [
+        367.65375854214125,
+        314.3507972665148,
+        12.300683371298419,
+        20.50113895216401
+      ],
+      "area": 252.17801900156212,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 139,
+      "image_id": 93,
+      "category_id": 0,
+      "bbox": [
+        367.65375854214125,
+        303.41685649202736,
+        15.034168564920265,
+        20.50113895216397
+      ],
+      "area": 308.21757877968594,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 140,
+      "image_id": 94,
+      "category_id": 0,
+      "bbox": [
+        364.92027334851934,
+        289.74943052391797,
+        16.400911161731244,
+        30.068337129840543
+      ],
+      "area": 493.1481260474998,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 141,
+      "image_id": 95,
+      "category_id": 0,
+      "bbox": [
+        366.28701594533027,
+        284.2824601366743,
+        16.400911161731187,
+        19.134396355353104
+      ],
+      "area": 313.82153475749925,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 142,
+      "image_id": 96,
+      "category_id": 0,
+      "bbox": [
+        363.5535307517085,
+        276.0820045558086,
+        17.767653758542167,
+        20.50113895216401
+      ],
+      "area": 364.2571385578121,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 143,
+      "image_id": 97,
+      "category_id": 0,
+      "bbox": [
+        362.18678815489744,
+        266.5148063781321,
+        17.767653758542167,
+        23.234624145785872
+      ],
+      "area": 412.82475703218694,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 144,
+      "image_id": 98,
+      "category_id": 0,
+      "bbox": [
+        364.92027334851934,
+        262.41457858769934,
+        17.76765375854211,
+        16.4009111617312
+      ],
+      "area": 291.4057108462486,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 145,
+      "image_id": 99,
+      "category_id": 0,
+      "bbox": [
+        228.24601366742593,
+        363.55353075170837,
+        90.20501138952164,
+        15.034168564920336
+      ],
+      "area": 1356.1573466306272,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 146,
+      "image_id": 100,
+      "category_id": 0,
+      "bbox": [
+        215.94533029612757,
+        352.619589977221,
+        99.77220956719815,
+        24.601366742596866
+      ],
+      "area": 2454.5327182818733,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 147,
+      "image_id": 101,
+      "category_id": 0,
+      "bbox": [
+        214.57858769931664,
+        351.25284738041,
+        98.40546697038721,
+        25.96810933940782
+      ],
+      "area": 2555.4039258825,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 148,
+      "image_id": 102,
+      "category_id": 0,
+      "bbox": [
+        213.21184510250566,
+        349.8861047835991,
+        92.93849658314349,
+        21.867881548974964
+      ],
+      "area": 2032.3680346199963,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 149,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        211.84510250569474,
+        344.4191343963554,
+        105.23917995444191,
+        24.601366742596824
+      ],
+      "area": 2589.0276617493696,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 150,
+      "image_id": 104,
+      "category_id": 0,
+      "bbox": [
+        207.74487471526191,
+        332.118451025057,
+        105.23917995444191,
+        35.535307517084306
+      ],
+      "area": 3739.7066225268677,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 151,
+      "image_id": 105,
+      "category_id": 0,
+      "bbox": [
+        214.57858769931664,
+        330.751708428246,
+        97.03872437357636,
+        30.0683371298405
+      ],
+      "area": 2917.7930791143644,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 152,
+      "image_id": 106,
+      "category_id": 0,
+      "bbox": [
+        213.21184510250566,
+        323.9179954441914,
+        105.23917995444191,
+        32.8018223234624
+      ],
+      "area": 3452.0368823324898,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 153,
+      "image_id": 107,
+      "category_id": 0,
+      "bbox": [
+        207.74487471526191,
+        312.98405466970394,
+        105.23917995444191,
+        31.435079726651452
+      ],
+      "area": 3308.2020122353006,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 154,
+      "image_id": 108,
+      "category_id": 0,
+      "bbox": [
+        203.64464692482915,
+        303.41685649202736,
+        112.0728929384966,
+        32.80182232346236
+      ],
+      "area": 3676.1951214449846,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 155,
+      "image_id": 109,
+      "category_id": 0,
+      "bbox": [
+        205.0113895216401,
+        303.41685649202736,
+        110.70615034168566,
+        25.96810933940769
+      ],
+      "area": 2874.829416617799,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 156,
+      "image_id": 110,
+      "category_id": 0,
+      "bbox": [
+        206.37813211845102,
+        289.74943052391797,
+        109.33940774487469,
+        32.801822323462446
+      ],
+      "area": 3586.5318257999934,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 157,
+      "image_id": 111,
+      "category_id": 0,
+      "bbox": [
+        213.21184510250566,
+        277.44874715261955,
+        101.13895216400914,
+        38.26879271070621
+      ],
+      "area": 3870.4655953424967,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 158,
+      "image_id": 112,
+      "category_id": 0,
+      "bbox": [
+        206.37813211845102,
+        266.5148063781321,
+        106.6059225512528,
+        34.1685649202734
+      ],
+      "area": 3642.571385578119,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 159,
+      "image_id": 113,
+      "category_id": 0,
+      "bbox": [
+        203.64464692482915,
+        263.78132118451026,
+        114.80637813211843,
+        28.701594533029592
+      ],
+      "area": 3295.126114953738,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 160,
+      "image_id": 114,
+      "category_id": 0,
+      "bbox": [
+        210.4783599088838,
+        258.3143507972665,
+        103.872437357631,
+        27.334851936218683
+      ],
+      "area": 2839.337695424994,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 161,
+      "image_id": 115,
+      "category_id": 0,
+      "bbox": [
+        210.4783599088838,
+        247.38041002277905,
+        110.70615034168563,
+        31.435079726651495
+      ],
+      "area": 3480.0566622215542,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 162,
+      "image_id": 116,
+      "category_id": 0,
+      "bbox": [
+        203.64464692482915,
+        246.01366742596812,
+        116.1731207289294,
+        23.234624145785872
+      ],
+      "area": 2699.2387959796806,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 163,
+      "image_id": 117,
+      "category_id": 0,
+      "bbox": [
+        214.57858769931664,
+        241.9134396355353,
+        107.97266514806378,
+        23.234624145785872
+      ],
+      "area": 2508.7042927340553,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 164,
+      "image_id": 118,
+      "category_id": 0,
+      "bbox": [
+        214.57858769931664,
+        239.17995444191342,
+        105.23917995444194,
+        21.867881548974964
+      ],
+      "area": 2301.3579215549967,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 165,
+      "image_id": 119,
+      "category_id": 0,
+      "bbox": [
+        205.0113895216401,
+        241.9134396355353,
+        107.97266514806375,
+        13.667425968109342
+      ],
+      "area": 1475.708407490621,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 166,
+      "image_id": 120,
+      "category_id": 0,
+      "bbox": [
+        214.57858769931664,
+        236.44646924829158,
+        92.93849658314352,
+        15.034168564920291
+      ],
+      "area": 1397.2530238012482,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 167,
+      "image_id": 121,
+      "category_id": 0,
+      "bbox": [
+        522.0956719817767,
+        278.8154897494305,
+        24.601366742596838,
+        16.400911161731244
+      ],
+      "area": 403.4848304025003,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 168,
+      "image_id": 122,
+      "category_id": 0,
+      "bbox": [
+        519.3621867881549,
+        270.61503416856493,
+        28.701594533029606,
+        16.4009111617312
+      ],
+      "area": 470.7323021362485,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 169,
+      "image_id": 123,
+      "category_id": 0,
+      "bbox": [
+        520.7289293849658,
+        256.9476082004556,
+        21.86788154897488,
+        24.601366742596785
+      ],
+      "area": 537.9797738699964,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 170,
+      "image_id": 124,
+      "category_id": 0,
+      "bbox": [
+        522.0956719817767,
+        251.48063781321187,
+        21.86788154897488,
+        21.86788154897492
+      ],
+      "area": 478.20424343999684,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 171,
+      "image_id": 125,
+      "category_id": 0,
+      "bbox": [
+        233.71298405466968,
+        359.4533029612756,
+        24.601366742596838,
+        13.667425968109384
+      ],
+      "area": 336.2373586687506,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 172,
+      "image_id": 126,
+      "category_id": 0,
+      "bbox": [
+        235.07972665148063,
+        352.619589977221,
+        20.50113895216401,
+        21.867881548975006
+      ],
+      "area": 448.31647822500014,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 173,
+      "image_id": 127,
+      "category_id": 0,
+      "bbox": [
+        230.9794988610478,
+        347.1526195899772,
+        20.50113895216401,
+        24.601366742596824
+      ],
+      "area": 504.35603800312396,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 174,
+      "image_id": 128,
+      "category_id": 0,
+      "bbox": [
+        230.9794988610478,
+        348.51936218678816,
+        21.867881548974964,
+        21.867881548975006
+      ],
+      "area": 478.2042434400006,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 175,
+      "image_id": 129,
+      "category_id": 0,
+      "bbox": [
+        226.87927107061503,
+        343.0523917995444,
+        25.968109339407732,
+        24.601366742596866
+      ],
+      "area": 638.8509814706244,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 176,
+      "image_id": 130,
+      "category_id": 0,
+      "bbox": [
+        222.7790432801822,
+        332.118451025057,
+        25.968109339407732,
+        21.86788154897488
+      ],
+      "area": 567.8675390849966,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 177,
+      "image_id": 131,
+      "category_id": 0,
+      "bbox": [
+        224.1457858769932,
+        328.01822323462414,
+        24.601366742596785,
+        21.86788154897492
+      ],
+      "area": 537.9797738699975,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 178,
+      "image_id": 132,
+      "category_id": 0,
+      "bbox": [
+        225.51252847380408,
+        318.4510250569476,
+        17.76765375854214,
+        25.968109339407732
+      ],
+      "area": 461.392375506561,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 179,
+      "image_id": 133,
+      "category_id": 0,
+      "bbox": [
+        225.51252847380408,
+        314.3507972665148,
+        17.76765375854214,
+        19.13439635535306
+      ],
+      "area": 339.9733293206238,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 180,
+      "image_id": 134,
+      "category_id": 0,
+      "bbox": [
+        215.94533029612757,
+        296.5831435079727,
+        25.968109339407732,
+        31.435079726651495
+      ],
+      "area": 816.3095874346853,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 181,
+      "image_id": 135,
+      "category_id": 0,
+      "bbox": [
+        224.1457858769932,
+        300.6833712984055,
+        17.76765375854214,
+        17.76765375854211
+      ],
+      "area": 315.6895200834361,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 182,
+      "image_id": 136,
+      "category_id": 0,
+      "bbox": [
+        221.4123006833713,
+        287.0159453302961,
+        23.234624145785855,
+        27.334851936218683
+      ],
+      "area": 635.1150108187478,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 183,
+      "image_id": 137,
+      "category_id": 0,
+      "bbox": [
+        218.67881548974944,
+        276.0820045558086,
+        25.968109339407732,
+        30.068337129840582
+      ],
+      "area": 780.8178662418735,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 184,
+      "image_id": 138,
+      "category_id": 0,
+      "bbox": [
+        225.51252847380408,
+        273.3485193621868,
+        16.400911161731216,
+        27.334851936218726
+      ],
+      "area": 448.31647822499986,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 185,
+      "image_id": 139,
+      "category_id": 0,
+      "bbox": [
+        221.4123006833713,
+        267.88154897494303,
+        25.968109339407732,
+        23.234624145785915
+      ],
+      "area": 603.3592602778116,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 186,
+      "image_id": 140,
+      "category_id": 0,
+      "bbox": [
+        225.51252847380408,
+        261.0478359908884,
+        19.13439635535309,
+        20.50113895216397
+      ],
+      "area": 392.27691844687354,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 187,
+      "image_id": 141,
+      "category_id": 0,
+      "bbox": [
+        226.87927107061503,
+        256.9476082004556,
+        17.76765375854214,
+        16.4009111617312
+      ],
+      "area": 291.4057108462491,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 188,
+      "image_id": 142,
+      "category_id": 0,
+      "bbox": [
+        224.1457858769932,
+        250.11389521640092,
+        24.601366742596785,
+        15.03416856492025
+      ],
+      "area": 369.86109453562307,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 189,
+      "image_id": 143,
+      "category_id": 0,
+      "bbox": [
+        228.24601366742593,
+        248.74715261958997,
+        20.50113895216401,
+        15.034168564920291
+      ],
+      "area": 308.2175787796871,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 190,
+      "image_id": 144,
+      "category_id": 0,
+      "bbox": [
+        233.71298405466968,
+        247.38041002277905,
+        20.50113895216401,
+        9.567198177676573
+      ],
+      "area": 196.13845922343774,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 191,
+      "image_id": 145,
+      "category_id": 0,
+      "bbox": [
+        230.9794988610478,
+        246.01366742596812,
+        27.334851936218712,
+        10.933940774487482
+      ],
+      "area": 298.87765214999985,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 192,
+      "image_id": 146,
+      "category_id": 0,
+      "bbox": [
+        620.501138952164,
+        337.5854214123007,
+        34.1685649202733,
+        34.168564920273354
+      ],
+      "area": 1167.4908287109329,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 193,
+      "image_id": 147,
+      "category_id": 0,
+      "bbox": [
+        636.9020501138951,
+        338.9521640091116,
+        19.134396355353147,
+        34.1685649202734
+      ],
+      "area": 653.7948640781267,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 194,
+      "image_id": 148,
+      "category_id": 0,
+      "bbox": [
+        642.3690205011388,
+        344.4191343963554,
+        13.667425968109455,
+        25.968109339407775
+      ],
+      "area": 354.9172119281275,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 195,
+      "image_id": 149,
+      "category_id": 0,
+      "bbox": [
+        635.5353075170842,
+        334.8519362186788,
+        24.601366742596838,
+        25.96810933940769
+      ],
+      "area": 638.8509814706226,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 196,
+      "image_id": 150,
+      "category_id": 0,
+      "bbox": [
+        635.5353075170842,
+        329.384965831435,
+        23.2346241457858,
+        28.701594533029592
+      ],
+      "area": 666.8707613596831,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 197,
+      "image_id": 151,
+      "category_id": 0,
+      "bbox": [
+        627.3348519362187,
+        315.7175398633258,
+        36.90205011389514,
+        34.16856492027331
+      ],
+      "area": 1260.8900950078053,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 198,
+      "image_id": 152,
+      "category_id": 0,
+      "bbox": [
+        628.7015945330296,
+        308.8838268792711,
+        38.268792710706066,
+        30.0683371298405
+      ],
+      "area": 1150.6789607774926,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 199,
+      "image_id": 153,
+      "category_id": 0,
+      "bbox": [
+        628.7015945330296,
+        299.31662870159454,
+        30.068337129840415,
+        35.535307517084306
+      ],
+      "area": 1068.4876064362431,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 200,
+      "image_id": 154,
+      "category_id": 0,
+      "bbox": [
+        624.6013667425967,
+        292.4829157175398,
+        41.00227790432802,
+        27.334851936218683
+      ],
+      "area": 1120.7911955624973,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 201,
+      "image_id": 155,
+      "category_id": 0,
+      "bbox": [
+        628.7015945330296,
+        280.18223234624145,
+        32.801822323462375,
+        36.902050113895214
+      ],
+      "area": 1210.4544912074953,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 202,
+      "image_id": 156,
+      "category_id": 0,
+      "bbox": [
+        630.0683371298405,
+        273.3485193621868,
+        30.06833712984053,
+        35.535307517084306
+      ],
+      "area": 1068.4876064362472,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 203,
+      "image_id": 157,
+      "category_id": 0,
+      "bbox": [
+        628.7015945330296,
+        262.41457858769934,
+        31.435079726651452,
+        41.00227790432807
+      ],
+      "area": 1288.909874896872,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 204,
+      "image_id": 158,
+      "category_id": 0,
+      "bbox": [
+        625.9681093394076,
+        258.3143507972665,
+        35.535307517084334,
+        30.068337129840543
+      ],
+      "area": 1068.4876064362486,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 205,
+      "image_id": 159,
+      "category_id": 0,
+      "bbox": [
+        623.2346241457859,
+        250.11389521640092,
+        36.90205011389514,
+        31.435079726651452
+      ],
+      "area": 1160.0188874071812,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 206,
+      "image_id": 160,
+      "category_id": 0,
+      "bbox": [
+        623.2346241457859,
+        240.54669703872435,
+        35.53530751708411,
+        30.068337129840582
+      ],
+      "area": 1068.4876064362431,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 207,
+      "image_id": 161,
+      "category_id": 0,
+      "bbox": [
+        620.501138952164,
+        236.44646924829158,
+        38.268792710706066,
+        25.968109339407732
+      ],
+      "area": 993.7681933987448,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 208,
+      "image_id": 162,
+      "category_id": 0,
+      "bbox": [
+        617.7676537585421,
+        233.71298405466973,
+        41.00227790432791,
+        23.234624145785872
+      ],
+      "area": 952.6725162281199,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 209,
+      "image_id": 163,
+      "category_id": 0,
+      "bbox": [
+        624.6013667425967,
+        229.61275626423694,
+        28.701594533029606,
+        20.50113895216401
+      ],
+      "area": 588.4153776703108,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 210,
+      "image_id": 164,
+      "category_id": 0,
+      "bbox": [
+        613.6674259681092,
+        228.24601366742593,
+        41.00227790432802,
+        21.867881548974964
+      ],
+      "area": 896.6329564499985,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 211,
+      "image_id": 165,
+      "category_id": 0,
+      "bbox": [
+        563.0979498861047,
+        343.0523917995444,
+        36.90205011389526,
+        13.667425968109342
+      ],
+      "area": 504.3560380031243,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 212,
+      "image_id": 166,
+      "category_id": 0,
+      "bbox": [
+        561.7312072892938,
+        333.4851936218679,
+        35.53530751708422,
+        20.50113895216397
+      ],
+      "area": 728.5142771156204,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 213,
+      "image_id": 167,
+      "category_id": 0,
+      "bbox": [
+        560.3644646924829,
+        323.9179954441914,
+        38.26879271070618,
+        23.234624145785872
+      ],
+      "area": 889.1610151462482,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 214,
+      "image_id": 168,
+      "category_id": 0,
+      "bbox": [
+        560.3644646924829,
+        317.08428246013665,
+        38.26879271070618,
+        24.601366742596785
+      ],
+      "area": 941.4646042724972,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 215,
+      "image_id": 169,
+      "category_id": 0,
+      "bbox": [
+        561.7312072892938,
+        311.61731207289296,
+        36.90205011389526,
+        21.86788154897492
+      ],
+      "area": 806.969660804998,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 216,
+      "image_id": 170,
+      "category_id": 0,
+      "bbox": [
+        560.3644646924829,
+        297.9498861047836,
+        32.801822323462375,
+        24.601366742596824
+      ],
+      "area": 806.9696608049974,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 217,
+      "image_id": 171,
+      "category_id": 0,
+      "bbox": [
+        560.3644646924829,
+        289.74943052391797,
+        41.00227790432791,
+        27.334851936218683
+      ],
+      "area": 1120.7911955624943,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 218,
+      "image_id": 172,
+      "category_id": 0,
+      "bbox": [
+        563.0979498861047,
+        282.91571753986335,
+        38.268792710706066,
+        28.701594533029635
+      ],
+      "area": 1098.3753716512456,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 219,
+      "image_id": 173,
+      "category_id": 0,
+      "bbox": [
+        564.4646924829157,
+        271.98177676537586,
+        32.801822323462375,
+        25.968109339407775
+      ],
+      "area": 851.8013086274977,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 220,
+      "image_id": 174,
+      "category_id": 0,
+      "bbox": [
+        556.26423690205,
+        265.1480637813212,
+        45.102505694760794,
+        24.601366742596824
+      ],
+      "area": 1109.583283606872,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    },
+    {
+      "id": 221,
+      "image_id": 175,
+      "category_id": 0,
+      "bbox": [
+        558.997722095672,
+        259.68109339407744,
+        38.268792710706066,
+        19.13439635535306
+      ],
+      "area": 732.2502477674959,
+      "segmentation": [],
+      "iscrowd": 0,
+      "ignore": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "black_mark"
+    }
+  ],
+  "info": {
+    "description": "Merged COCO annotations from all syringe run folders",
+    "version": "1.0",
+    "year": 2026,
+    "contributor": "merge_coco_annotations.py"
+  }
+}
